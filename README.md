@@ -1,4 +1,4 @@
-<div>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -20,12 +20,11 @@
 
 ###
 
-<h3 align="left">Hey, guys!</h3>
+<h2 align="left">Hey, guys!</h2>
 
 ###
 
-<p align="left">Finalizei, em dezembro de 2023, meu Ensino Médio integrado ao Curso Técnico de Informática no Instituto Federal de São Paulo - Campus Araraquara. Logo em seguida, por meio do Enem e SISU 2024, entrei no Curso Superior Tecnologia em Sistemas para Internet (TSI) no Instituto Federal, iniciando-o em fevereiro. 
-Criei, desenvolvi e implementei o sistema (website) EcoAge em PHP, CSS, HTML e JS — um sistema web com gamificação que busca a conscientização de tecidos sustentáveis como TCC.</p>
+<p align="left">Hello World!!</p>
 
 ###
 
@@ -41,3 +40,5 @@ Criei, desenvolvi e implementei o sistema (website) EcoAge em PHP, CSS, HTML e J
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
+
+###
